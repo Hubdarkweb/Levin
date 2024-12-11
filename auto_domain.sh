@@ -19,7 +19,7 @@ read -rp "Input 1 or 2: " dns
 
 if [ "$dns" -eq 1 ]; then
     # Download cf script and convert line endings
-    wget https://raw.githubusercontent.com/NETWORKTWEAKER/AUTO-SCRIPT/master/ssh/cf
+    wget https://raw.githubusercontent.com/Hubdarkweb/Lenin/master/ssh/cf
     dos2unix cf
     bash cf
 elif [ "$dns" -eq 2 ]; then
