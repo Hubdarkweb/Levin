@@ -10,8 +10,8 @@ xz-utils tk-dev libffi-dev liblzma-dev git dos2unix
 
 # Display options to the user
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "$green PRESS 1 TO USE NT DOMAIN                           	$NC"
-echo -e "$green PRESS 2 TO INPUT CUSTOM DOMAIN              	$NC"
+echo -e "$green PRESS 1 TO USE 🤿☁️🤺🏄⛷️🏂🔫🎮🪂TOpPLUG🤿☁️ DOMAIN                           	$NC"
+echo -e "$green PRESS 2 TO INPUT CUSTOM🔫🌪️😹🤿☁️🤺🪂🎮🌊🏂⛷️🏄 DOMAIN              	$NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 
 # Read user's choice
